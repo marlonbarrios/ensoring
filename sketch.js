@@ -13,7 +13,7 @@ var  start = 0;
 
 var settings = {
   space: 0.05,
-  circleRadius: 180,
+  circleRadius: 188,
   negHeight: -199,
   posHeight: 52,
   start: 0.01
@@ -40,7 +40,7 @@ function setup() {
 }
 
 function windowResized() {
-  background(0);
+  background(230, 10);
   resizeCanvas(windowWidth, windowHeight);
 }
 

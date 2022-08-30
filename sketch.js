@@ -13,7 +13,7 @@ var  start = 0;
 
 var settings = {
   space: 0.05,
-  circleRadius: 188,
+  circleRadius: 190,
   negHeight: -199,
   posHeight: 52,
   start: 0.01
